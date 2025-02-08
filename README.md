@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview  
 This project focuses on recognizing black-and-white pixelated uppercase English letters using machine learning models. The dataset consists of **17,338 samples** generated from 20 different fonts, with random distort
--world variability. The project was developed as part of **COE 292: Introduction to Artificial Intelligence** at **King Fahd University of Petroleum and Minerals (KFUPM).**  
+-world variability. The project was developed as part of **COE 292: Introduction to Artificial Intelligence course**  
 
 ## 🎯 Objectives  
 - Implement and compare different machine learning models for letter recognition.  
